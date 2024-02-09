@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @codegeekArun
-- 👀 I’m interested in ...Game art and development 
-- 🌱 I’m currently learning ...game art
-- 💞️ I’m looking to collaborate on ...game development
-- 📫 How to reach me ...
+- 👀 I’m interested in ...Software testing
+- 🌱 I’m currently learning ...manual testing 
+- 💞️ I’m looking to collaborate on ...software testing 
+- 📫 How to reach me ...Reacharunkumar.me@gmail.com
 
 <!---
 codegeekArun/codegeekArun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
