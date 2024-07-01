@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @coderArunKumar
 - 👀 I’m interested in ...Software testing
-- 🌱 I’m currently learning ...manual testing 
+- 🌱 I’m currently learning ... automation testing 
 - 💞️ I’m looking to collaborate on ...software testing 
 - 📫 How to reach me ...Reacharunkumar.me@gmail.com
 
